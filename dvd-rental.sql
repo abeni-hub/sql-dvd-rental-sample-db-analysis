@@ -1,3 +1,4 @@
+-- updated
 --1. Insert a New Customer Record:Insert a new customer with appropriate details (e.g., first name, last name, email, address, city) into the customer table.
 --To generate new country_ID
 INSERT INTO country(country,last_update)
